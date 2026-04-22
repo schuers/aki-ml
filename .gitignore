@@ -217,6 +217,8 @@ __marimo__/
 
 # Image Folder as the author added code to save images in the images folder, it is recommended to ignore this folder to avoid committing large files to version control.
 images/
+*.png
+*.gif
 
 # Persistent model files
 *.pkl
