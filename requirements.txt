@@ -6,3 +6,7 @@ ipykernel
 nb-clean
 requests
 pydot
+plotly
+soundfile
+librosa
+kaleido
