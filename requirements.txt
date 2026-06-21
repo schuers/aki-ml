@@ -3,7 +3,6 @@ numpy
 matplotlib
 scikit-learn
 ipykernel
-nb-clean
 requests
 pydot
 plotly
@@ -12,3 +11,4 @@ librosa
 kaleido
 ipywidgets
 seaborn
+tensorflow-cpu # Currently my setup only runs on the cpu as npu/gpu support requires a lot of setup...
