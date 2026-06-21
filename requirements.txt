@@ -10,3 +10,4 @@ plotly
 soundfile
 librosa
 kaleido
+ipywidgets
