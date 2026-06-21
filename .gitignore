@@ -226,3 +226,4 @@ images/
 # data set files
 datasets/
 *.csv
+*.npz
