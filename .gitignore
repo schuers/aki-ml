@@ -230,3 +230,5 @@ datasets/
 *.mat
 *.h5
 *.keras
+
+logs/

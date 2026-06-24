@@ -1,3 +1,4 @@
+setuptools==81.0 # Needs to be installed, because: https://github.com/Nerogar/OneTrainer/issues/1304
 pandas
 numpy
 matplotlib
@@ -12,3 +13,4 @@ kaleido
 ipywidgets
 seaborn
 tensorflow-cpu # Currently my setup only runs on the cpu as npu/gpu support requires a lot of setup...
+tensorboard
