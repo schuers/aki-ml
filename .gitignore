@@ -227,3 +227,6 @@ images/
 datasets/
 *.csv
 *.npz
+*.mat
+*.h5
+*.keras

@@ -14,5 +14,18 @@ py -m venv .venv
 pip install -r requirements.txt
 ```
 
+## Install Tensorflow
+
+At the time of the AKI module, TensorFlow was only available for the python version 3.12. Therefore a installation of python 3.12 is required to run tensorflow. When creating the virtual execution environment you have to manually add the version of python. 
+
+https://www.tensorflow.org/install/pip 
+
+```bash
+py -3.12 -m venv .venv
+
+.venv/bin/activate  # On Linux/ macOS, use `source .venv\Scripts\activate
+
+pip install -r requirements.txt
+```
 
 
